@@ -7,4 +7,4 @@ function reduce(x,y){
     return(x-y);
 }
 add(1,2);
-add(2,1);
+reduce(2,1);
